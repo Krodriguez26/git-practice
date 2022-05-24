@@ -1,0 +1,3 @@
+[submodule "practice-exercise"]
+	path = practice-exercise
+	url = https://github.com/Krodriguez26/lab-html-exercise.git
